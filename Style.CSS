@@ -1,0 +1,48 @@
+body {
+  font-family: 'Epilogue', sans-serif;
+}
+
+header .navbar {
+  background-color: #333;
+}
+
+header .navbar .navbar-brand img {
+  max-height: 40px;
+}
+
+.hero {
+  padding: 5rem 0;
+}
+
+.hero-image-size {
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+}
+
+.latest-news .card {
+  margin-bottom: 20px;
+}
+
+.latest-news .card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 1rem 0;
+}
+
+.footer p {
+  margin: 0;
+}
